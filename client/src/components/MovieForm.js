@@ -27,7 +27,7 @@ function MovieForm() {
       .then((data) => {
         console.log(data);
       });
-  }
+  } 
 
   function handleChange(e) {
     const value =
